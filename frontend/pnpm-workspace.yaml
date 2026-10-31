@@ -1,4 +1,5 @@
 packages:
   - '.'
-onlyBuiltDependencies:
-  - esbuild
+# 保留你原有的其他配置，例如：
+# onlyBuiltDependencies:
+#   - esbuild
